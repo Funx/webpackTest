@@ -1,0 +1,7 @@
+@lost gutter 1rem;
+@lost flexbox flex;
+@lost cycle 16;
+
+.el {
+  lost-column: 1/3;
+}
